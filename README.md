@@ -21,18 +21,6 @@
     that don't get in the way.
   </p>
 
-  <br />
-
-  <a href="https://www.linkedin.com/in/navinvenkat/">
-    <img src="https://img.shields.io/badge/LinkedIn-navinvenkat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hexraei">
-    <img src="https://img.shields.io/badge/Open_to_Collaborate-6C63FF?style=flat-square&logo=handshake&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ships_to_Production-not_just_GitHub-F0A500?style=flat-square" />
-
 </div>
 
 ---
@@ -111,20 +99,20 @@ Performance and table rendering at scale were the real constraints. The result i
 
 ---
 
-## Stats
+## Activity
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hexraei&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8892A4" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexraei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=8892A4" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hexraei&bg_color=0D1117&color=8892A4&line=6C63FF&point=6C63FF&area=true&area_color=6C63FF&hide_border=true&custom_title=" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hexraei&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=F0A500&currStreakLabel=6C63FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hexraei&show_icons=false&hide_border=true&bg_color=0D1117&title_color=8892A4&text_color=8892A4&hide_rank=false&count_private=true&hide=issues" height="130" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexraei&layout=compact&hide_border=true&bg_color=0D1117&title_color=8892A4&text_color=8892A4&langs_count=5" height="130" />
 </div>
 
 ---
