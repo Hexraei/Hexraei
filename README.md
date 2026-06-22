@@ -23,13 +23,15 @@
 
   <br />
 
-  <a href="https://github.com/Hexraei">
-    <img src="https://img.shields.io/badge/GitHub_Pro-Hexraei-6C63FF?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/navinvenkat/">
+    <img src="https://img.shields.io/badge/LinkedIn-navinvenkat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Pull_Shark_%F0%9F%A6%88-Achievement-3a86ff?style=flat-square" />
+  <a href="https://github.com/Hexraei">
+    <img src="https://img.shields.io/badge/Open_to_Collaborate-6C63FF?style=flat-square&logo=handshake&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/India-UTC+05:30-F0A500?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ships_to_Production-not_just_GitHub-F0A500?style=flat-square" />
 
 </div>
 
@@ -77,15 +79,35 @@ Performance and table rendering at scale were the real constraints. The result i
 
 <br />
 
-```
-Frontend     Next.js · React · TypeScript · Tailwind CSS · HTML · CSS
-Backend      C# · .NET 8 · SignalR · Node.js · Python
-Tooling      Git · GitHub · Render
-```
+<div align="center">
+
+  **Frontend**<br />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+
+  <br /><br />
+
+  **Backend & Real-time**<br />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-000000?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+  <br /><br />
+
+  **Tooling**<br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+
+</div>
 
 <br />
 
-Not a list of things I've touched — everything here has shipped in production.
+<div align="center"><sub>Not a list of things I've touched — everything here has shipped in production.</sub></div>
 
 ---
 
@@ -111,7 +133,7 @@ Not a list of things I've touched — everything here has shipped in production.
 
 Open to collaborating on **full-stack web products**, **real-time systems**, and **developer tooling** — things with real users and interesting technical constraints.
 
-If what you're working on fits, [reach out](https://github.com/Hexraei).
+If what you're working on fits, [reach out on LinkedIn](https://www.linkedin.com/in/navinvenkat/).
 
 ---
 
