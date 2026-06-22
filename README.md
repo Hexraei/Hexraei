@@ -1,91 +1,122 @@
-# Navin (Hexraei) 🚀
+<!--
+  ╔══════════════════════════════════════════════╗
+  ║   Hexraei · GitHub Profile README           ║
+  ╚══════════════════════════════════════════════╝
+-->
 
 <div align="center">
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=%3E+building+things+that+actually+work;%3E+full-stack+%7C+real-time+%7C+desktop+%7C+web" alt="Typing SVG" />
+  <br /><br />
+
+  <h1>Navin · Hexraei</h1>
+
+  <p>
+    Full-Stack Engineer &nbsp;·&nbsp; Indie Maker &nbsp;·&nbsp; South India
+  </p>
+
+  <p>
+    I design and ship production-grade software — B2B platforms, real-time desktop utilities,<br />
+    and tools that solve concrete problems. I care about clean architecture and interfaces<br />
+    that don't get in the way.
+  </p>
+
+  <br />
+
   <a href="https://github.com/Hexraei">
-    <img src="https://img.shields.io/badge/GitHub-Pro-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
+    <img src="https://img.shields.io/badge/GitHub_Pro-Hexraei-6C63FF?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Hexraei">
-    <img src="https://img.shields.io/badge/Achievement-Pull_Shark-deepskyblue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  </a>
-  <a href="https://github.com/Hexraei">
-    <img src="https://img.shields.io/badge/Location-India_🇮🇳-emerald?style=for-the-badge" alt="Location" />
-  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pull_Shark_%F0%9F%A6%88-Achievement-3a86ff?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/India-UTC+05:30-F0A500?style=flat-square" />
+
+</div>
+
+---
+
+## Projects
+
+<br />
+
+**[PlayPair](https://github.com/Hexraei/PlayPair)** &nbsp;`C#` `·NET 8` `SignalR` `WPF` `SMTC`
+
+> Real-time OS-level media synchronization for Windows. Captures system-wide playback state — Spotify, YouTube, VLC, Plex, Chrome — via the Windows Media Session API and syncs it across devices over a self-hosted SignalR WebSocket server. Ships as a zero-config portable tray app.
+
+The interesting engineering here is the SignalR hub architecture that handles latency drift and reconnection without user intervention. No installers. No accounts. Just works.
+
+<br />
+
+**[Best Hydraulics](https://github.com/Hexraei/Best-Hydraulics-Webpage)** &nbsp;`Next.js` `TypeScript` `Tailwind CSS`
+
+> Premium B2B e-commerce platform for industrial pneumatic and hydraulic components. 1,000+ catalog entries with advanced product filtering and an RFQ system — built for procurement teams, not consumers.
+
+Performance and table rendering at scale were the real constraints. The result is a site that loads fast and navigates like a tool, not a storefront.
+
+<br />
+
+**[Hackathon Finder](https://github.com/Hexraei/Hackathon_Finder)** &nbsp;`TypeScript` `Node.js`
+
+> A centralized aggregator that scrapes and normalizes hackathon listings across 11+ platforms — Devpost, Devfolio, Unstop, and others — into a single filterable dashboard. Built for developers who are tired of checking five tabs.
+
+<br />
+
+**[CryptoHunter](https://github.com/Hexraei/CryptoHunter)** &nbsp;`Python`
+
+> Security analytics platform developed for SIH25239 during Smart India Hackathon 2025. Built under time pressure to solve a real government-sector requirement.
+
+<br />
+
+**[DataEntry](https://github.com/Hexraei/DataEntry)** &nbsp;`Web`
+
+> Logistics management application for a rubber footwear manufacturer — production flows, supply chain data entry, and inventory tracking in one place.
+
+---
+
+## Stack
+
+<br />
+
+```
+Frontend     Next.js · React · TypeScript · Tailwind CSS · HTML · CSS
+Backend      C# · .NET 8 · SignalR · Node.js · Python
+Tooling      Git · GitHub · Render
+```
+
+<br />
+
+Not a list of things I've touched — everything here has shipped in production.
+
+---
+
+## Stats
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hexraei&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8892A4" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexraei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=8892A4" height="160" />
 </div>
 
 <br />
 
 <div align="center">
-  <h2>Full-Stack Software Engineer & Web Developer</h2>
-  <p>
-    I build premium B2B e-commerce platforms, real-time desktop utilities, and centralized data scrapers. 
-    Passionate about clean architecture, responsive performance, and high-quality UI/UX design.
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hexraei&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=F0A500&currStreakLabel=6C63FF" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+## What I'm building toward
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend & Real-time** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-000000?style=for-the-badge&logo=socketdotio&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Tools & Hosting** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) |
+Open to collaborating on **full-stack web products**, **real-time systems**, and **developer tooling** — things with real users and interesting technical constraints.
+
+If what you're working on fits, [reach out](https://github.com/Hexraei).
 
 ---
-
-### 🚀 Highlighted Projects
-
-#### 🎵 [PlayPair](https://github.com/Hexraei/PlayPair)
-*A sleek, lightweight Windows tray application that synchronizes media playback (play, pause, seek) in real-time.*
-- Powered by **C#**, **.NET**, and a high-performance **SignalR** WebSockets server.
-- Automatically captures media controls (Spotify, YouTube, VLC, Plex, Brave, Chrome) via the Windows Media Session API.
-- Distributed as a zero-configuration portable package with integrated system tray controls.
-
-#### 🏗️ [Best Hydraulics](https://github.com/Hexraei/Best-Hydraulics-Webpage)
-*A modern, premium B2B e-commerce platform for sourcing industrial pneumatic and hydraulic components.*
-- Built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
-- Designed for speed, responsive tables, and complex B2B component configurations.
-
-#### 🔍 [Hackathon Finder](https://github.com/Hexraei/Hackathon_Finder)
-*A centralized aggregator dashboard that scrapes and compiles hackathons from 11+ platforms.*
-- Built with **TypeScript** and **Node.js** to scrap listings from Devpost, Devfolio, Unstop, and more.
-- Provides a filterable single-page view for developers tracking upcoming competitions.
-
-#### 🎯 [CryptoHunter](https://github.com/Hexraei/CryptoHunter)
-*A software platform developed for SIH25239 during the Smart India Hackathon 2025 Season.*
-- Implemented with **Python** to solve security/analytics requirements.
-
-#### 📋 [DataEntry](https://github.com/Hexraei/DataEntry)
-*A logistics management web application built to streamline operations for a rubber footwear manufacturer.*
-- Focuses on supply chain data entry, production flows, and inventory optimization.
-
----
-
-### 📊 GitHub Performance & Activity
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hexraei&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Hexraei's GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexraei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hexraei's Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hexraei&theme=tokyonight&hide_border=true&background=0D1117" alt="Hexraei's Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <sub>
+    <code>while(true) { ship(); learn(); repeat(); }</code>
+  </sub>
 </div>
-
----
-
-### 📫 Connect with Me
-
-- 💼 **GitHub**: [github.com/Hexraei](https://github.com/Hexraei)
-- 📧 **Location**: India 🇮🇳 (UTC +05:30)
-- ⚡ **Collaborations**: Open to working on full-stack web products, SignalR/WebSocket applications, and UI/UX design integrations.
