@@ -16,9 +16,9 @@
   </p>
 
   <p>
-    I design and ship production-grade software — B2B platforms, real-time desktop utilities,<br />
-    and tools that solve concrete problems. I care about clean architecture and interfaces<br />
-    that don't get in the way.
+    I build whatever I feel like building. <br />
+    Websites for my clients, softwares, startup projects etc. <br />
+    I mainly focus on designing the systems behind every application, and let AI do the "coding" part.
   </p>
 
 </div>
