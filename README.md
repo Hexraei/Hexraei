@@ -12,7 +12,7 @@
   <h1>Navin · Hexraei</h1>
 
   <p>
-    Full-Stack Engineer &nbsp;·&nbsp; Indie Maker &nbsp;·&nbsp; South India
+    Full-Stack Engineer &nbsp;·&nbsp; Startups &nbsp;·&nbsp; South India
   </p>
 
   <p>
@@ -75,7 +75,7 @@ Tooling      Git · GitHub · Render
 
 <br />
 
-<div align="center"><sub>Not a list of things I've touched — everything here has shipped in production.</sub></div>
+<div align="center"><sub>Some of the tools I have worked with, building production grade software.</sub></div>
 
 ---
 
@@ -99,7 +99,7 @@ Tooling      Git · GitHub · Render
 
 ## What I'm building toward
 
-Open to collaborating on **full-stack web products**, **real-time systems**, and **developer tooling** — things with real users and interesting technical constraints.
+Open to collaborating on **full-stack web development**, **startup ideas**, and **AI agents**, basically things with real users and interesting technical constraints.
 
 If what you're working on fits, [reach out on LinkedIn](https://www.linkedin.com/in/navinvenkat/).
 
