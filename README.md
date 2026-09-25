@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6C63FF&height=200&section=header&text=Navin%20Venkatesan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=solo%20builder%20%C2%B7%20agentic%20systems%20%C2%B7%20Chennai%2C%20India&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Navin Venkatesan" />
+<img src="./assets/header.png" width="100%" alt="Navin Venkatesan - independent builder in Chennai" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=540&lines=%3E+i+design+the+system%2C+agents+write+the+code;%3E+products+for+the+public%2C+sites+for+real+businesses;%3E+hackathon+winner%2C+building+in+chennai" alt="> i design the system, agents write the code" />
 
